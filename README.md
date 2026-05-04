@@ -147,8 +147,6 @@ The **Power BI Dashboard** includes two main views:
 - Return rate analysis
 - Repeat vs new customer revenue split
 
-> 📎 **[View Dashboard →](#)** *(Add Maven/Power BI link here)*
-
 ---
 
 ## 🗄️ SQL Analytics Highlights
